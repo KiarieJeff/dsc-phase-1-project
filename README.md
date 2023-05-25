@@ -10,11 +10,13 @@ In this project will use exploratory data analysis in order to determine what ki
 
 ### Business Understanding
 
-Our job is to investigate box office successes as we work to establish a prosperous film company. We will get insightful information that will help the head of Microsoft's new movie studio choose the kinds of movies to produce by thoroughly analyzing the existing landscape of film industry successes. These conclusions will act as benchmarks to direct the studio toward fruitful endeavors
+Microsoft must be considering a number of questions now that they have a new movie studio.What genres of movies are performing well in the industry, for example, can be one of the queries. What kind of movies should they make, and why?
 
-Our main goal is to investigate and evaluate the kinds of movies that are now dominating the box office. To do this, we must examine trends, patterns, and contributors to commercial success across a range of genres.
+The project's goal is to use exploratory data analysis approaches to learn how movies are doing right now at the box office. The project's EDA will look at and analyze a variety of movie-related data, including box genres, release dates, production costs, audience ratings, and other pertinent elements.
 
-The ability of the research's insights to be transformed into decisions that can be implemented will be one of the success factors. These data should enable the CEO of Microsoft's movie studio to make well-informed decisions about the kinds of movies to develop, the partnerships to pursue, and the marketing tactics to use.
+Our job is to investigate box office successes as we work to establish a prosperous film company. We will get insightful information that will help the head of Microsoft's new movie studio choose the kinds of movies to produce by thoroughly analyzing the existing landscape of film industry successes. These conclusions will act as benchmarks to direct the studio toward fruitful endeavors.
+
+The success criteria for this project is to be able output insights that can be transformed into decisions that will be later on be implemented. These insights should enable the CEO of Microsoft's movie studio to make well-informed decisions about the kinds of movies to develop and the marketing tactics to use.
 
 ### Data Understanding
 
@@ -33,4 +35,35 @@ Generally we could use many data sources but for this analysis will use informat
 * **Format**:  plain text file that has tabular data in a structured format having rows and columns and field values.
 
 
-gsdshd ddd wvvwevwvfuvf
+### Results
+
+With the below visualization we can see that sc-fi combined with other genres especially adventure and drama can yield high ratings.
+
+![](images/output1.png)
+
+In the below bargraph we can see the variations of other genres combined with Action with their corresponding domestic and foreign gross.We can see the most reasonable combination to go with is the action-adventure-si_fi.
+
+![](images/output2.png)
+
+Lastly we can compare the genres with overall income over the years.
+
+![](images/output4.png)
+### Conclusions
+
+Based on the analysis above we would come up with the following recommendation:
+
+1. Go for the si-fi genre accompanied by other genres preferably adventure and drama.If the company is more driven towards getting good ratings they should produce si-fi movies because it occurs more frequently at the top rated genres.
+
+2. If the company is more inclined towards getting income from producing movies,its evident from the overall gross to go for the action-adventure genre combination .For the  reason that that combination when carefully added with the right genre can yield high income.
+
+3. In order to get the best from the movie one is to make it should perform both financially and appealing to the audience.It is to that that we recommend genres that are performing well both in average rating and gross income.A combination of action,adventure,si-fi and drama would certainly do good both for the producers and the audience.
+
+### Next Steps
+
+Further analyses could yield additional insights to further improve operations at the Microsoft Studio:
+
+1. What are the esimated budgets for some of the genres in play.
+
+2. Which personnels when brought to the company can bring increase in performance.
+
+3. Upcoming types of genres
