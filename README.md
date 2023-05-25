@@ -67,3 +67,15 @@ Further analyses could yield additional insights to further improve operations a
 2. Which personnels when brought to the company can bring increase in performance.
 
 3. Upcoming types of genres
+
+
+
+## Repository Structure
+
+```
+├── images
+├── .gitignore
+├── README.md
+├── movies_analysis.ipynb
+└── 
+```
