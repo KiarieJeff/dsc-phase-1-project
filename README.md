@@ -52,11 +52,11 @@ Lastly we can compare the genres with overall income over the years.
 
 Based on the analysis above we would come up with the following recommendation:
 
-1. Go for the si-fi genre accompanied by other genres preferably adventure and drama.If the company is more driven towards getting good ratings they should produce si-fi movies because it occurs more frequently at the top rated genres.
+1. Go for the biography genre accompanied by other genres preferably adventure and drama.If the company is more driven towards getting good ratings they should produce biography movies because it results in movies that are top rated.
 
-2. If the company is more inclined towards getting income from producing movies,its evident from the overall gross to go for the action-adventure genre combination .For the  reason that that combination when carefully added with the right genre can yield high income.
+2. If the company is more inclined towards getting income from producing movies,its evident from the overall gross to go for the adventure genre combined with most probably action,si-fi or drama.For the reason these combinations when carefully added with the right genre can yield high income.
 
-3. In order to get the best from the movie one is to make it should perform both financially and appealing to the audience.It is to that that we recommend genres that are performing well both in average rating and gross income.A combination of action,adventure,si-fi and drama would certainly do good both for the producers and the audience.
+3. In order to get the best from the movie one is to make, it should perform both financially and appealing to the audience.It is to that,that we recommend genres that are performing well both in average rating and gross income.A combination of action,adventure,si-fi and drama would certainly do good both for the producers and the audience.
 
 ### Next Steps
 
