@@ -26,7 +26,7 @@ Generally we could use many data sources but for this analysis will use informat
 
 * **Source**: This dataset comes from [`im.db.zip`](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/blob/master/zippedData/im.db.zip), where we extracted the database from the zip file.
 * **Contents**: it contains information and statistics about movies, TV shows and video games as well as actors, directors and other film industry professionals.
-* **Format**:  
+* **Format**:  data stored in sqlite format
 
 #### `bom.movie_gross.csv`
 
@@ -81,7 +81,7 @@ For additional info, contact Jeff Kiarie  at [.linkedin.com/in/jeff-kiarie-54490
 ```
 ├── images
 ├── .gitignore
+├── README.md
 ├── movies_analysis.ipynb
-├── presentation.pdf
-└── README.md
+└── presentation.pdf
 ```
