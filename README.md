@@ -68,6 +68,12 @@ Further analyses could yield additional insights to further improve operations a
 
 3. Upcoming types of genres
 
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./movies_analysis.ipynb) or review this [presentation](./presentation.pdf).
+
+For additional info, contact Jeff Kiarie  at [.linkedin.com/in/jeff-kiarie-54490a278](https://www.linkedin.com/in/jeff-kiarie-54490a278)
+
 
 
 ## Repository Structure
@@ -75,7 +81,7 @@ Further analyses could yield additional insights to further improve operations a
 ```
 ├── images
 ├── .gitignore
-├── README.md
 ├── movies_analysis.ipynb
-└── 
+├── presentation.pdf
+└── README.md
 ```
